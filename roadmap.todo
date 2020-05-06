@@ -7,15 +7,15 @@ A - 1º Piloto - Setup do projeto:
         ✔ sequelize-cli @done(20-05-06 15:02)
         ✔ mysql2 @done(20-05-06 15:02)
         ✔ dotenv @done(20-05-06 15:02)
-    ☐ Configurar conexão com o banco utilizando variáveis do ambiente (https://github.com/motdotla/dotenv)
-    ☐ Testar conexão com o banco (node testeDb.js)
-    ☐ Atualizar repositório remoto
-    ☐ Adicionar outros membros como colaboradores
+    ✔ Configurar conexão com o banco utilizando variáveis do ambiente (https://github.com/motdotla/dotenv) @done(20-05-06 15:52)
+    ✔ Testar conexão com o banco (node testeDb.js) @done(20-05-06 15:52)
+    ✔ Atualizar repositório remoto @done(20-05-06 16:09)
+    ✔ Adicionar outros membros como colaboradores @done(20-05-06 16:11)
 
 B - Comum - Setup do BD:
-    ☐ Clonar repositório
-    ☐ Ajustar conexão a banco de dados alterando o ".env"
-    ☐ Testar conexão com o banco (node testeDb.js)
+    ✔ Clonar repositório @done(20-05-06 16:11)
+    ✔ Ajustar conexão a banco de dados alterando o ".env" @done(20-05-06 16:11)
+    ✔ Testar conexão com o banco (node testeDb.js) @done(20-05-06 16:11)
 
 C - 2º Piloto - Criação de Model Usuario:
     ☐ Configurar .sequelizerc ["models": path.resolve("models")]
