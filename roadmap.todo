@@ -1,12 +1,12 @@
 A - 1º Piloto - Setup do projeto:
-    ☐ Fazer fork do projeto
-    ☐ Clonar projeto para local
-    ☐ Rodar script de criação do banco de dados
-    ☐ Instalar
-        ☐ sequelize
-        ☐ sequelize-cli
-        ☐ mysql2
-        ☐ dotenv
+    ✔ Fazer fork do projeto @done(20-05-06 14:59)
+    ✔ Clonar projeto para local @done(20-05-06 14:59)
+    ✔ Rodar script de criação do banco de dados @done(20-05-06 14:59)
+    ✔ Instalar @done(20-05-06 15:02)
+        ✔ sequelize @done(20-05-06 15:02)
+        ✔ sequelize-cli @done(20-05-06 15:02)
+        ✔ mysql2 @done(20-05-06 15:02)
+        ✔ dotenv @done(20-05-06 15:02)
     ☐ Configurar conexão com o banco utilizando variáveis do ambiente (https://github.com/motdotla/dotenv)
     ☐ Testar conexão com o banco (node testeDb.js)
     ☐ Atualizar repositório remoto
